@@ -1,7 +1,7 @@
 ---
 title: "2022-2023 SECME National Engineering Design Student Competition Guidelines"
 author: "SECME National Office"
-date: "`r Sys.Date()`"
+date: "09-20-2022"
 output:
   html_document:
     toc: true
@@ -13,11 +13,13 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
 <font size="18">Elementary School Division</font>
-
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME_logo.jpg){width=50%}
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME_logo.jpg)
+</center>
 
 # Letter to our Competition Hosts
 
@@ -36,11 +38,16 @@ We welcome any corrections or any suggestions for improvement to our Guidelines.
 
 # SECME Competition Information
 
+<center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Competitions_List.jpg){width=50%}
+</center>
 
 All SECME competitions:
+
 * Are for both individual SECME students and SECME student teams.
+
 * All competition hosts should communicate with their SECME participating schools and ISLs about their local arrangements.
+
 *	All team competitions may have **one, two, or three students** on the team.
 
 SECME engineering design competitions are intended to challenge SECME student participants and develop essential skills for their futures as STEM professionals. Construction of vehicles, technical designs, technical and written reports, patch designs, PowerPoint presentations, essays, vision boards, and posters should be solely the work of SECME student participants. Plagiarism is prohibited. Remember that **PLAGIARISM** is taking someone else’s work or ideas and passing them off as one’s own or using your old work and passing it off as new (self-plagiarism).
@@ -48,7 +55,7 @@ SECME engineering design competitions are intended to challenge SECME student pa
 
 # SECME Important Deadlines
 
-The SECME National Office will publish announcements, changes, and updates on the SECME Website under the News tab. Additional details on the electronic submissions process are in the Required Reporting Checklist. Terms used throughout these Guidelines are on the Definitions and Explanations Page. Please click here to print [“Important Deadlines”]((https://drive.google.com/file/d/1JXEdCrRgPIqCsMorjHDWaAPLgfIkybqJ/view?usp=sharing)) for reference.
+The SECME National Office will publish announcements, changes, and updates on the SECME Website under the News tab. Additional details on the electronic submissions process are in the Required Reporting Checklist. Terms used throughout these Guidelines are on the Definitions and Explanations Page. Please click here to print [Important Deadlines]((https://drive.google.com/file/d/1JXEdCrRgPIqCsMorjHDWaAPLgfIkybqJ/view?usp=sharing)) for reference.
 
 **Monday, January 9, 2023** – Competing schools must register with the SECME National Office.
 
@@ -74,4 +81,53 @@ The links below are also available on our website at www.secme.org.
 [Grades 9-12](https://docs.google.com/forms/d/e/1FAIpQLSel-eW9BCVAyOYXJpYIlMcbzZ__4tkSlC6_v_ngZbu2XzLizw/viewform)
 
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
+
+
+# SECME General Competition Information
+
+Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these Guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the National Competition Guidelines separate from your local guidelines.
+
+## Collaboration and Consent
+
+To foster collaboration and a knowledge-sharing STEM community, all materials submitted to SECME will become the property of SECME and may be shared via the SECME website, marketing documents, presentations, etc. Materials include, but are not limited to, written and technical reports, engineering notebooks, pictures, technical drawings, etc. We have included a parent/guardian consent form to use said documents. The SECME Coordinator will provide this document to the parent/guardian of each 1st place winner of local, state, district, and regional winner. Click to download the [SECME Consent Form for the use of Photographs or Videos Consent]
+
+## New and Returning Features
+
+*	A standard tennis ball will be the passenger for the Mousetrap Car (MTC)
+
+*	The MTC and Water Bottle Rocket (WBR) build has a $2.50 maximum budget – All divisions
+
+*	WBR calculation exercises submission in written and technical reports – All divisions
+
+*	Scoring adjustments for in-person and virtual competition methods
+
+*	**Competition hosts will register all first-place winning SECME students and student teams from their local, state, district, and regional competitions**
+
+*	SECME Coordinators will upload all required documents (see [Required Reporting Listing](https://drive.google.com/file/d/1dp0RNOdBm-tpVS63X_V_QR0xV-878Iuq/view?usp=sharing))
+
+*	An Art of Engineering Video Presentation (AOE) is needed – All Divisions, Following Team Competitions: MTC, WBR, VEX IQ, and VEX V5 
+
+*	Technical drawing – competition teams can include an AutoCAD drawing with their hand to draw a technical drawing of the MTC and WBR.
+
+*	Patch Design theme centered around the SECME theme – student competitor school or ISL school motto or mascot
+
+*	A video demonstrating the competition vehicle (MTC, WBR, VEX IQ, and VEX V5) in motion
+
+*	Video submission for Essay/Vision Board (optional) – middle and high school division
+
+SECME competitions are a fantastic way for teachers to reinforce science, technology, engineering, and mathematics skills with exciting, engaging hands-on activities while challenging students to persevere and excel. SECME student competitions expose students to real-world applications in science, technology, engineering, and mathematics while generating interest and excitement about college and careers in **STEM**.
+
+## Register Winning Students and Teams
+
+All 1st place winners at their local, state, district, or regional competition advance to SECME National Competition Finals. The competition hosts must report all winners to the SECME National Office using an electronic registration. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2023**. Each student on a team is required to have SECME Registration Information submitted on their behalf. Complete the [SECME Registration Information]
+
+# SECME Registration Information
+
+Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. **Registration opens Monday, March 13, 2023**, and **closes on Monday, April 3, 2022**. A registration link will also be sent with instructions to complete registration.
+
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
+```
+
 
