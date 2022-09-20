@@ -53,7 +53,7 @@ All SECME competitions:
 SECME engineering design competitions are intended to challenge SECME student participants and develop essential skills for their futures as STEM professionals. Construction of vehicles, technical designs, technical and written reports, patch designs, PowerPoint presentations, essays, vision boards, and posters should be solely the work of SECME student participants. Plagiarism is prohibited. Remember that **PLAGIARISM** is taking someone else’s work or ideas and passing them off as one’s own or using your old work and passing it off as new (self-plagiarism).
 
 
-# SECME Important Deadlines
+## SECME Important Deadlines
 
 The SECME National Office will publish announcements, changes, and updates on the SECME Website under the News tab. Additional details on the electronic submissions process are in the Required Reporting Checklist. Terms used throughout these Guidelines are on the Definitions and Explanations Page. Please click here to print [Important Deadlines]((https://drive.google.com/file/d/1JXEdCrRgPIqCsMorjHDWaAPLgfIkybqJ/view?usp=sharing)) for reference.
 
@@ -83,15 +83,15 @@ The links below are also available on our website at www.secme.org.
 **Monday, May 8, 2023** – Notification of Winners. SECME will post a listing of All winners on their website.
 
 
-# SECME General Competition Information
+## SECME General Competition Information
 
 Please read the entirety of the 2022-2023 SECME National Student Engineering Design Competition Guidelines. Any alterations to these Guidelines are prohibited. If you are a SECME competition host with local SECME competition guidelines, please keep the contents of the National Competition Guidelines separate from your local guidelines.
 
-## Collaboration and Consent
+### Collaboration and Consent
 
 To foster collaboration and a knowledge-sharing STEM community, all materials submitted to SECME will become the property of SECME and may be shared via the SECME website, marketing documents, presentations, etc. Materials include, but are not limited to, written and technical reports, engineering notebooks, pictures, technical drawings, etc. We have included a parent/guardian consent form to use said documents. The SECME Coordinator will provide this document to the parent/guardian of each 1st place winner of local, state, district, and regional winner. Click to download the [SECME Consent Form for the use of Photographs or Videos Consent]
 
-## New and Returning Features
+### New and Returning Features
 
 *	A standard tennis ball will be the passenger for the Mousetrap Car (MTC)
 
@@ -117,17 +117,53 @@ To foster collaboration and a knowledge-sharing STEM community, all materials su
 
 SECME competitions are a fantastic way for teachers to reinforce science, technology, engineering, and mathematics skills with exciting, engaging hands-on activities while challenging students to persevere and excel. SECME student competitions expose students to real-world applications in science, technology, engineering, and mathematics while generating interest and excitement about college and careers in **STEM**.
 
-## Register Winning Students and Teams
+### Register Winning Students and Teams
 
 All 1st place winners at their local, state, district, or regional competition advance to SECME National Competition Finals. The competition hosts must report all winners to the SECME National Office using an electronic registration. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2023**. Each student on a team is required to have SECME Registration Information submitted on their behalf. Complete the [SECME Registration Information]
 
-# SECME Registration Information
+## SECME Registration Information
 
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. **Registration opens Monday, March 13, 2023**, and **closes on Monday, April 3, 2022**. A registration link will also be sent with instructions to complete registration.
-
 
 ```{r echo=FALSE}
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
 ```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.jpg){width=75%}
+</center>
 
+## SECME Eligibility Criteria 
 
+**PLEASE READ CAREFULLY**
+
+SECME Member Universities, Program Directors, and Coordinators are asked to distribute or reference these Guidelines to all educators, parents, business & industry partners, and graduate and undergraduate students who prepare students for this year’s competitions or serve as mentors or judges. They must fully understand the Guidelines and judging criteria for each competition.
+
+1.	All entries are expected to be neat, original, and **completed by the SECME student only**.
+
+2.	Elementary, Middle, and High School SECME students will compete with other SECME students at their respective levels.
+
+3.	As identified in these guidelines, first-place SECME local, state, district, or regional winning students or student teams advance to the 2022-2023 SECME National Student Competition Finals.
+
+### Program/Competition Requirement Information
+
+Registration of your SECME program (school or ISL) and student data is an annual requirement to participate in SECME. Additionally, coordinators and students are to submit annual reports and surveys. SECME Coordinators **must** submit the following for your students to **compete** in SECME Competitions for the 2022-2023 school year:
+
+A.	**All** Competing schools/ISLs must register with the SECME National Office by **Monday, January 9, 2023**.
+
+B.	**All** students participating in SECME National Student Competition Finals must be registered and updated in the SECME National Database System by **Monday, January 30, 2022**.
+
+**Students NOT REGISTERED will be ineligible to compete in SECME National Student Competition Finals.**
+
+A.	SECME Coordinators, please follow your local, state, district, or regional competition host’s procedures and dates for submitting all SECME-required competition documents, forms, and reports.
+
+B.	Student Surveys. **All** students participating in the SECME National Student Competition Finals must complete the electronic Student Survey no later than **Monday, April 10, 2023**. SECME students **will be ineligible to compete** if they have not completed the SECME Student Survey.
+
+### Registration of Competing Students and Student Teams
+
+All member universities, districts, and ISLs will receive an invitation to register their first-place winning students and student teams. Suppose Robotics and Poster Competitions are not part of your local, state, district, or regional competition. In that case, coordinators will have the opportunity to register their students competing in either of these competitions as these are “non-qualifying” competitions. Registration opens **Monday, March 13, 2023**, and closes **Monday, April 3, 2022**. Hard copy registrations and emails will not be accepted. If you have problems with the electronic registration, please contact my office for assistance.
+
+### Coordinator Information
+
+Upon notification of local, state, district, or regional winners, SECME Coordinators will be sent a link to upload all required competition documents, including the AOE video presentation, forms, reports, and photo/video permission slips/consent forms. Necessary documents are due on or before **Monday, April 10, 2023**. Required competition documents **not uploaded** will receive a zero-point score for the designated category. The (see [Required Reporting Listing](https://drive.google.com/file/d/1dp0RNOdBm-tpVS63X_V_QR0xV-878Iuq/view?usp=sharing)) list contains all of the reporting details. Upload competition documents electronically; email submissions are not accepted. Please contact the SECME National Office for assistance if you have problems with the electronic upload process.
+
+# Mouse Trap Car
