@@ -978,4 +978,6 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.png){width=75%}
 </center>
 
+## Written Report Evaluation Instructions (MTC/WBR)
+
 
