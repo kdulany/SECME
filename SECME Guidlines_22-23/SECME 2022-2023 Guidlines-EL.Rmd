@@ -16,11 +16,16 @@ knitr::opts_chunk$set(echo = TRUE)
 xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
-<center>
-<font size="18">Elementary School Division</font>
+# Elementary School Division
 
+<center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME_logo.jpg)
 </center>
+
+To view the competition guidelines in a PDF click to
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/SECME Guidelines 22-23_EL.pdf")
+```
 
 # Letter to our Competition Hosts
 
@@ -104,7 +109,7 @@ Please read the entirety of the 2022-2023 SECME National Student Engineering Des
 
 ### Collaboration and Consent
 
-To foster collaboration and a knowledge-sharing STEM community, all materials submitted to SECME will become the property of SECME and may be shared via the SECME website, marketing documents, presentations, etc. Materials include, but are not limited to, written and technical reports, engineering notebooks, pictures, technical drawings, etc. We have included a parent/guardian consent form to use said documents. The SECME Coordinator will provide this document to the parent/guardian of each 1st place winner of local, district, state, and regional winner. Click to download the [SECME Consent Form - Photographs or Videos]
+To foster collaboration and a knowledge-sharing STEM community, all materials submitted to SECME will become the property of SECME and may be shared via the SECME website, marketing documents, presentations, etc. Materials include, but are not limited to, written and technical reports, engineering notebooks, pictures, technical drawings, etc. We have included a parent/guardian consent form to use said documents. The SECME Coordinator will provide this document to the parent/guardian of each 1st place winner of local, district, state, and regional winner. Click to download the [SECME Consent Form - Photo/Video]
 
 ### New and Returning Features
 
@@ -142,7 +147,7 @@ All 1st place winners at their local, district, state, or regional competition a
 Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.jpg){width=100%}
@@ -465,9 +470,17 @@ We have added two new features for this competition year.
 
 Calculation Exercises:
 
-[Grades Pre-K - 2]()	
+**Grades Pre-K-2**
 
-[Grades 3-5]()
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
+```
+
+**Grades 3-5**
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
+```
 
 **The Mission**
 The mission is to design a Water Bottle Rocket Vehicle capable of staying aloft for the longest time (measured in seconds).
@@ -539,9 +552,17 @@ The winner will be judged on the following criteria: (based on 100 pts):
 
 The written report must include calculation exercises:
 
-[Grades Pre-K-2]()
+**Grades Pre-K-2**
 
-[Grades 3-5]()
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/Calc Manual/WBR_CalcManual_PK-2.pdf")
+```
+
+**Grades 3-5**
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/Calc Manual/WBR_CalcManual_3-5.pdf")
+```
 
 ### Schematic Diagrams
 
@@ -858,7 +879,7 @@ The Vision Board will be judged on the following criteria:
 
 5. One paragraph explanation of the Vision Board (3-12 grades)
 
-# Forms and Reporting Materials
+# Reporting Materials
 
 ## Reporting Checklist
 
@@ -873,6 +894,27 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Reporting Checklist1.jpg){width=75%}
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Reporting Checklist2.jpg){width=75%}
 
+</center>
+
+## SECME Registration Information
+
+Below is the information needed to register 1st place winners for qualifying and non-qualifying competitions. Registration opens **Monday, March 13, 2023**, and closes on **Monday, April 3, 2023**. A registration link will also be sent with instructions to complete registration.
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.jpg){width=100%}
+</center>
+
+## SECME Consent Form - Photo/Video
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Consent Form.pdf")
+```
+
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Consent Form.jpg){width=75%}
 </center>
 
 
@@ -973,10 +1015,22 @@ Coordinator/Teacher email address
 
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.png){width=75%}
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.jpg){width=75%}
+</center>
+
+## SECME Grievance Form
+
+[Linlk to the SECME Grievance Form](https://forms.gle/U4q4gSnznZsCw9yL7)
+
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Grievance Form.pdf")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Grievance Form.jpg){width=75%}
 </center>
 
 # Judging Evaluation Forms
@@ -1026,7 +1080,7 @@ The written report should reflect the SECME student(s)/student team(s) professio
 ### Written Report Judge’s Form (MTC/WBR)
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR1.jpg){width=75%}
@@ -1040,7 +1094,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 **Construction and Evaluation**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.jpg){width=75%}
@@ -1050,7 +1104,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 **Construction and Evaluation**
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.jpg){width=75%}
@@ -1095,7 +1149,7 @@ The engineering notebook is an opportunity to document everything a SECME studen
 ### Engineering Notebook Judge’s Evaluation Form 
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.jpg){width=75%}
@@ -1106,7 +1160,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ### WBR Judge’s Evaluation Form – In Person
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.jpg){width=75%}
@@ -1118,7 +1172,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ### WBR Judge's Evaluation Form - Virtual
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.jpg){width=75%}
@@ -1148,7 +1202,7 @@ What is a patch? A patch is a creative display that reflects the dedication and 
 ### Patch Design Challenge Judge’s Evaluation Form
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.jpg){width=75%}
@@ -1171,7 +1225,7 @@ Each middle/high school division Mousetrap Car, Water Bottle Rocket, VEX IQ Robo
 ### AOE Judge’s Evaluation Form - Virtual
 
 ```{r echo=FALSE}
-xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.docx")
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.pdf")
 ```
 <center>
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.jpg){width=75%}
@@ -1277,3 +1331,94 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_1.jpg){width=75%}
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_2.jpg){width=75%}
 </center>
+
+
+#### Topics 2-3
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3.pdf")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3_1.jpg){width=75%}
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3_2.jpg){width=75%}
+</center>
+
+# Frequently Asked Questions (FAQs)
+
+If you have any questions or need help in these specific areas, please contact:
+
+**Engineering Design (Mousetrap Car)**: Contact the Member University engineering representative who sponsors your Regional/State competition.
+
+**Engineering Design (Water Bottle Rocketry)**: Contact the Member University engineering representative who sponsors your Regional/State competition.
+
+**VEX V5/VEX IQ Robotics**: Contact the SECME National Office - secme@eng.ufl.edu
+
+**Essay/Vision Board, Picture Book, and Poster Competitions**: Contact the SECME National Office - secme@eng.ufl.edu
+
+
+
+1. What if my winning school is not listed in the drop-down option?
+
+    Only registered schools for the 2022-2023 school year will populate. Please select “not     listed” and type in the Official School Name if     the school’s name is not listed. We will follow up with that school.
+
+2. We are a registered school but do not have a Regional Competition scheduled for this year. Can we participate in the SECME National Competition activities?
+
+    Yes! Please contact Dr. Julaunica Tigner, SECME Outreach Coordinator, at julaunicatigner@ufl.edu for competition details.
+
+3. Can we purchase mousetrap kits from the SECME National Office?
+
+    No, SECME no longer sells mousetrap kits. Instead, SECME has adopted and encouraged scratch-build designs to foster more creativity and innovation. SECME Coordinators/ISLs can purchase mousetrap car kits at the following websites: 
+    
+    a. [Pitsco](https://www.pitsco.com/SearchAll/?keywords=mousetrap_car_kit&type=0)
+    b. [Midwest Supply Company](https://www.midwesttechnology.com/midwest-products-mousetrap-racer-kits-12/)
+    c. [DOC FIZZIX](https://www.docfizzix.com/)
+    d. [Kelvin Educational](https://kelvin.com/search.php?search_query=mousetrap+car+kit)
+    e. [Sciencekit.com](https://sciencekitstore.com/mousetrap-car/)
+
+4. Where can we purchase bulk two-liter plastic bottles?
+
+    [Pitsco](https://www.pitsco.com/SearchAll/?keywords=mousetrap_car_kit&type=0) or your local recycling facility
+	
+5. Where can we purchase the tennis balls? Please find one suggested supplier below:
+
+    [Amazon (Pack of 3 Tennis Balls)-$6.99 as of 08/31/2022](https://www.amazon.com/Wilson-Minions-Stage-Tennis-Balls/dp/B08SMLGTFS/ref=sr_1_3?crid=1JD4VRLXCI4EA&keywords=tennis%2Bballs&qid=1661976476&refinements=p_89%3AWILSON&rnid=2528832011&s=sporting-goods&sprefix=tennis%2Caps%2C263&sr=1-3&th=1)
+
+6. Where can we purchase the engineering paper?
+    
+    [ArtSupply.Com (10-sheets for $18.26 as of 08/31/2022)](https://www.artsupply.com/Clearprint-Vellum-17-X-22-10-Sheet-Pack_p_45604.html)
+
+7. How does my SECME team determine the cost of 3D printing? 
+
+    For 3D printing, the SECME student team evaluates the cost of the material used to make the part for their vehicle. 
+
+    Example: Polylactic acid (PLA) pellets can be purchased for the price of $10.00 per 1 kg. If the SECME student team only used 1 g, the following calculation they would need to do to determine the cost of their 3D component:
+
+    <center>
+$\frac{10.00}{1 kg}×1 g×\frac{1 kg}{1000 g}=0.01$
+    Cost = $0.01
+    </center>
+
+    The following is a link to how much 3D materials will cost in 2020:
+    
+    https://all3dp.com/2/how-much-do-3d-printer-materials-cost/
+
+8. How does my SECME team log their purchases on their material list?
+
+    Example: Balloons were purchased for $10.99 for 100 balloons. If the SECME student team only used two balloons, the following will be the calculation they would need to do to determine the cost:
+    
+    <center>
+    $\frac{10.99}{100 ballons}×2 balloons=0.22$ 
+
+    $0.22 for two balloons
+    </center>
+
+    An example of how to fill out the material list.
+    <center>
+    ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Material List Example.png){width=75%}
+    </center>
+    
+9. Local, District, State, or Regional SECME Competition Concerns and Complaints
+
+    Please complete and submit the SECME Competition Grievance Form to the local, district, state, or regional SECME Competition Host. The local, district, state, or regional SECME Competition Host should handle all grievances at the local, district, state, or regional levels. 
+    
+*Note: Please follow any additional instructions or procedures your local, district, state, or regional SECME Competition Host implements.*
