@@ -19,7 +19,7 @@ xfun::pkg_load2(c("htmltools", "mime"))
 # Elementary School Division
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME_logo.jpg)
+![](images/SECME_logo.jpg)
 </center>
 
 To view the competition guidelines in a PDF click to
@@ -51,7 +51,7 @@ We welcome any corrections or any suggestions for improvement to our Guidelines.
 # SECME Competition Information
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Competitions_List.jpg){width=50%}
+![](images/Competitions_List.jpg){width=50%}
 </center>
 
 All SECME competitions:
@@ -151,7 +151,7 @@ Below is the information needed to register 1st place winners for qualifying and
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.jpg){width=100%}
+![](docs/SECME Registration Information.jpg){width=100%}
 </center>
 
 ## SECME Eligibility Criteria 
@@ -200,7 +200,7 @@ Required competition documents not uploaded will receive a zero-point score for 
 ## Mouse Trap Car (MTC)
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/MTC_1.png){width=75%}
+![](images/MTC_1.png){width=75%}
 </center>
 
 ### All Divisions - Construction and Operation
@@ -270,7 +270,7 @@ Original receipts for all materials purchased must be included* (scanned) AND re
 The length L is the longest dimension in the x, y, or z-axis. In other words, it could be the length, width, or height of the completed mousetrap car, which is the longest dimension.
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/MTC2.jpg){width=75%}
+![](images/MTC2.jpg){width=75%}
 </center>
 
 The mousetrap car’s **length L is the longest dimension in the car’s x, y, or z-axis** while the car is resting with the spring unwound. In other words, it could be the length, width, or height of the completed mousetrap car, which is the longest dimension. If the bail has been straightened and protrudes past the front or rear of the car, the measurement is taken from the end of the bail to the other end of the car. 
@@ -279,7 +279,7 @@ The mousetrap car’s **length L is the longest dimension in the car’s x, y, o
 #### Standard Mousetrap Diagram
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/MTC3.png){width=75%}
+![](images/MTC3.png){width=75%}
 </center>
 
 $\color{red}{\text{NOTE: The red parts may be removed from the car.}}$
@@ -379,7 +379,7 @@ Click to jump to Judging Forms: [Mouse Trap Car Judging]
 ## VEX V5/VEX IQ Robotics
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Vex V5:IQ.png){width=75%}
+![](images/Vex V5:IQ.png){width=75%}
 </center>
 
 <small>https://www.vexrobotics.com/v5/competition/vrc-current-game</small>
@@ -455,7 +455,7 @@ The Final Score is based on the following criteria:(when there is no performance
 ## Water Bottle Rocket Design Competition (WBR)
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME WBR.png){width=50%}
+![](images/SECME WBR.png){width=50%}
 </center>
 
 
@@ -570,20 +570,20 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 #### Diagram 1: Parts of a WBR
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Dim.jpg){width=75%}
+![](images/WBR_Dim.jpg){width=75%}
 </center>
 
 
 #### Diagram 2: Nose Cone Diagram
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Nose.jpg){width=75%}
+![](images/WBR_Nose.jpg){width=75%}
 </center>
 
 #### Diagram 3: Fin Diagram
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Fin.jpg){width=75%}
+![](images/WBR_Fin.jpg){width=75%}
 </center>
 
 ## Patch Design Challenge
@@ -630,7 +630,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ### Example Patch Design
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Patch.png){width=50%}
+![](images/WBR_Patch.png){width=50%}
 </center>
 
 **Example Explanation of Patch**
@@ -671,7 +671,7 @@ Every student team member must contribute to a piece of the video to get all pos
 ## Essay and Vision Board Competition
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Essay_VB.png){width=75%}
+![](images/Essay_VB.png){width=75%}
 </center>
 
 ### Essay and Vision Board Introduction
@@ -892,8 +892,8 @@ The following are the required SECME competition documents, reports, videos, and
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Reporting Checklist.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Reporting Checklist1.jpg){width=75%}
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Reporting Checklist2.jpg){width=75%}
+![](docs/Reporting Checklist1.jpg){width=75%}
+![](docs/Reporting Checklist2.jpg){width=75%}
 
 </center>
 
@@ -905,7 +905,7 @@ Below is the information needed to register 1st place winners for qualifying and
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Registration Information.jpg){width=100%}
+![](docs/SECME Registration Information.jpg){width=100%}
 </center>
 
 ## SECME Consent Form - Photo/Video
@@ -915,7 +915,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ```
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Consent Form.jpg){width=75%}
+![](docs/SECME Consent Form.jpg){width=75%}
 </center>
 
 
@@ -956,7 +956,7 @@ Video files can be in the following formats: MP3/MP4.
 ## Acceptable Fonts
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Fonts.png){width=75%}
+![](docs/Fonts.png){width=75%}
 </center>
 
 ## Sample Cover Page
@@ -1019,7 +1019,7 @@ Coordinator/Teacher email address
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.jpg){width=75%}
+![](docs/Materials List.jpg){width=75%}
 </center>
 
 ## SECME Grievance Form
@@ -1031,7 +1031,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Grievance Form.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/SECME Grievance Form.jpg){width=75%}
+![](docs/SECME Grievance Form.jpg){width=75%}
 </center>
 
 # Judging Evaluation Forms
@@ -1084,8 +1084,8 @@ The written report should reflect the SECME student(s)/student team(s) professio
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR1.jpg){width=75%}
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR2.jpg){width=75%}
+![](docs/Written Report Judge MTC_WBR1.jpg){width=75%}
+![](docs/Written Report Judge MTC_WBR2.jpg){width=75%}
 </center>
 
 ## Mousetrap Car Judging
@@ -1098,7 +1098,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.jpg){width=75%}
+![](docs/Mouse Trap Car Judging_InPerson.jpg){width=75%}
 
 ### MTC Judge’s Evaluation Form – Virtual
 
@@ -1108,7 +1108,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.jpg){width=75%}
+![](docs/Mouse Trap Car Judging_Virtual.jpg){width=75%}
 </center>
 
 ## VEX V5/VEX IQ Robotics Judging
@@ -1153,7 +1153,7 @@ The engineering notebook is an opportunity to document everything a SECME studen
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.jpg){width=75%}
+![](docs/Engineering Notebook Judge.jpg){width=75%}
 </center>
 
 ## Water Bottle Rocket Judging
@@ -1164,7 +1164,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.jpg){width=75%}
+![](docs/WBR Judging_InPerson.jpg){width=75%}
 </center>
 
 
@@ -1176,7 +1176,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.jpg){width=75%}
+![](docs/WBR Judging_Virtual.jpg){width=75%}
 </center>
 
 
@@ -1187,7 +1187,7 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 What is a patch? A patch is a creative display that reflects the dedication and mission of the SECME student team. This symbolic picture must comply with the following patch design challenge:
 
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Patch.png){width=50%}
+![](images/WBR_Patch.png){width=50%}
 </center>
 
 <mark>NOTE: Inappropriate patch designs will be removed from the competition. The SECME team will receive a score of zero for patch design.</mark>
@@ -1206,7 +1206,7 @@ What is a patch? A patch is a creative display that reflects the dedication and 
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.jpg){width=75%}
+![](docs/Patch Design Challenge_Judge Eval.jpg){width=75%}
 </center>
 
 ## The Art of Engineering 
@@ -1229,7 +1229,7 @@ Each middle/high school division Mousetrap Car, Water Bottle Rocket, VEX IQ Robo
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.jpg){width=75%}
+![](docs/The Art of Engineering Judge Eval.jpg){width=75%}
 </center>
 
 ## Essay/Vision Board
@@ -1317,7 +1317,7 @@ Click [Phases] to return to the guidelines
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Vision Board_Judge Eval_P2.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Vision Board_Judge Eval_P2.jpg){width=75%}
+![](docs/Vision Board_Judge Eval_P2.jpg){width=75%}
 </center>
 
 
@@ -1329,8 +1329,8 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_1.jpg){width=75%}
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_2.jpg){width=75%}
+![](docs/Essay_Vision Board_Judge Eval_3-12_T1_1.jpg){width=75%}
+![](docs/Essay_Vision Board_Judge Eval_3-12_T1_2.jpg){width=75%}
 </center>
 
 
@@ -1340,8 +1340,8 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3.pdf")
 ```
 <center>
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3_1.jpg){width=75%}
-![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T2-3_2.jpg){width=75%}
+![](docs/Essay_Vision Board_Judge Eval_3-12_T2-3_1.jpg){width=75%}
+![](docs/Essay_Vision Board_Judge Eval_3-12_T2-3_2.jpg){width=75%}
 </center>
 
 # Frequently Asked Questions (FAQs)
@@ -1415,7 +1415,7 @@ $\frac{10.00}{1 kg}×1 g×\frac{1 kg}{1000 g}=0.01$
 
     An example of how to fill out the material list.
     <center>
-    ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/Material List Example.png){width=75%}
+    ![](images/Material List Example.png){width=75%}
     </center>
     
 9. Local, District, State, or Regional SECME Competition Concerns and Complaints
