@@ -16,8 +16,9 @@ knitr::opts_chunk$set(echo = TRUE)
 xfun::pkg_load2(c("htmltools", "mime"))
 ```
 
-<font size="18">Elementary School Division</font>
 <center>
+<font size="18">Elementary School Division</font>
+
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/SECME_logo.jpg)
 </center>
 
@@ -978,6 +979,301 @@ xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-
 ![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Materials List.png){width=75%}
 </center>
 
-## Written Report Evaluation Instructions (MTC/WBR)
+# Judging Evaluation Forms
+
+## Written Report Evaluation (MTC/WBR)
+
+### Instructions
+
+As a part of the Engineering Design Competition, the SECME student(s)/student team(s) is required to write a Written Report describing the design, construction, and operation of the Mousetrap Car or Water Bottle Rocket. The main body of the report should be a maximum of two pages. 
+
+<mark>**EVIDENCE OF PLAGIARISM OR RE-SUBMISSION OF PREVIOUS YEARS’ REPORTS WILL RESULT IN A ZERO SCORE.**</mark>
+
+#### Structure
+
+1. Cover page
+      a. Title of the SECME Written Report – The title is this year’s competition theme
+      b. SECME Competition Division 
+      c. SECME Team Name
+      d. Each SECME student team member’s name, grade
+      e. Official School District Name
+      f. SECME team’s official school name, city, state, and zip
+      g. SECME School Coordinator’s (or Teacher’s) name and email
+
+2. Double-spaced text
+
+3. One-inch borders at the top, bottom, and on each side 
+4. 12 pt. acceptable standard font, computer typed
+5. The report is neat; the pages are numbered (do not number the cover page)
+
+#### Content
+
+1. Writing includes an original introduction and conclusion
+
+2. Writing contains ideas that are fully developed, fully supported, and describe the design, construction, and operation of the vehicle
+
+3. Writing is logical and coherent as a whole
+4. Mousetrap Car must include handwritten calculations.
+5. Water Bottle Rocketry must include calculation exercises
+6. The written report should include the completed Materials List with receipts (These should not be counted in the two-page limit).
+
+#### Mechanics, Spelling, and Grammar
+
+The written report should reflect the SECME student(s)/student team(s) professionalism and pride, free of errors. 
+
+<center><mark> NOTE: Written Reports not submitted will receive a zero score.</mark></center>
+
+### Written Report Judge’s Form (MTC/WBR)
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR1.jpg){width=75%}
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Written Report Judge MTC_WBR2.jpg){width=75%}
+</center>
+
+## Mousetrap Car Judging
+
+### MTC Judge’s Evaluation Form – In Person
+
+**Construction and Evaluation**
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_InPerson.jpg){width=75%}
+
+### MTC Judge’s Evaluation Form – Virtual
+
+**Construction and Evaluation**
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Mouse Trap Car Judging_Virtual.jpg){width=75%}
+</center>
+
+## VEX V5/VEX IQ Robotics Judging
+
+### Engineering Notebook Judge’s Evaluation Instructions
+
+One of the VEX V5/VEX IQ Robotics Competition’s main missions is to help SECME student teams acquire real-world life skills to benefit them in their academic and professional future. The Engineering Notebook is a way for student teams to document the engineering design process during the VEX V5/VEX IQ Robotics Competition. The engineering notebook gives student teams the practice of essential life skills, including project management, time management, brainstorming, and teamwork. The engineering notebook reflects the documentation of the student team’s design decisions and efforts in creating a novel and innovative competitive robot. SECME student teams should start their engineering notebooks early and update them often and daily. Write handwritten notes and documentation neatly and clearly for judges to read without difficulty. 
+
+Engineering is an iterative process requiring students to recognize and define a problem, brainstorm, and work through various stages of the design process, test their designs, improve their designs, and continue the process until a solution has been produced. During this process, students will come across obstacles, encounter successes and failures, and learn many lessons. It is this process that students should document in their Engineering Notebook. 
+
+The engineering notebook is an opportunity to document everything a SECME student team does and serve as a historical guide of lessons learned and best practices that can benefit the SECME student team in future years. SECME students may document any number of things in their engineering notebooks. For example, team meeting notes, design concepts and sketches, pictures, notes from competitions, biographies of the members of their team (students, teachers, Coordinators, and mentors), observations and thoughts of team members throughout the season, team organization practices, and any other notes that a team finds useful.
+
+#### Requirements
+1. Cover page
+    a. Title of the Engineering Notebook – Example: SECME Engineering Design Competition: VEX V5 or VEX IQ Robotics Engineering Notebook
+    b. SECME Team Name
+    c. Each SECME student team member’s name, grade
+    d. Official School System/District Name
+    e. SECME team’s official school name, city, state, and zip
+    f. SECME School Coordinator’s (or Teacher’s) name and email
+
+2. Table of Contents
+
+3. Provide a brief description of each SECME team member and their strengths and benefits
+
+4. Design ideas
+
+5. SECME Team meeting notes (daily entries)
+
+6. Construction of the robot
+
+7. Operation 
+    a. Describe how the robot has been designed to achieve the object of the VEX V5/VEX IQ Robotics game and general novel features
+
+8. Problems encountered and methods to resolve them
+
+9. Conclusion/Future Recommendations
+
+### Engineering Notebook Judge’s Evaluation Form 
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Engineering Notebook Judge.jpg){width=75%}
+</center>
+
+## Water Bottle Rocket Judging
+
+### WBR Judge’s Evaluation Form – In Person
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_InPerson.jpg){width=75%}
+</center>
 
 
+
+
+### WBR Judge's Evaluation Form - Virtual
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/WBR Judging_Virtual.jpg){width=75%}
+</center>
+
+
+## Patch Design Challenge 
+
+### Judge’s Evaluation Instructions (WBR)
+
+What is a patch? A patch is a creative display that reflects the dedication and mission of the SECME student team. This symbolic picture must comply with the following patch design challenge:
+
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/images/WBR_Patch.png){width=50%}
+</center>
+
+<mark>NOTE: Inappropriate patch designs will be removed from the competition. The SECME team will receive a score of zero for patch design.</mark>
+
+**The Patch Design will be judged on the following criteria:**
+	
+1. Paper Size Requirement (13”×13” poster board)
+2. SECME Theme - “School or ISL mascot or school motto.”
+3. Appearance 
+4. Creativity 
+5. Explanation of Patch 
+
+### Patch Design Challenge Judge’s Evaluation Form
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Patch Design Challenge_Judge Eval.jpg){width=75%}
+</center>
+
+## The Art of Engineering 
+
+### Judge’s Evaluation Instructions
+
+This competition component showcases the ART in the SECME student team engineering design of their vehicle.
+
+Each middle/high school division Mousetrap Car, Water Bottle Rocket, VEX IQ Robotics, and VEX V5 Robotics SECME student team will submit a five to seven-minute video on their car, rocket, or robot from the creative, innovative, and artistic perspective. In other words, sell your car’s, rocket’s, or robot’s capabilities creatively and informally. Every SECME student teammate must contribute to the team to get all possible points. Your video should introduce your SECME student teammates and display your technical drawing and vehicle. 
+
+**The Art of Engineering will be judged on the following criteria**:
+
+* Creative and Innovative 
+
+* Five to seven-minute Video Presentation
+
+### AOE Judge’s Evaluation Form - Virtual
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.docx")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/The Art of Engineering Judge Eval.jpg){width=75%}
+</center>
+
+## Essay/Vision Board
+
+### Judge’s Evaluation Instructions
+
+#### Introduction
+
+What is the Essay/Vision Board competition? SECME’s essay/vision board competition is a written and illustrative representation (vision board) on any of the three topics listed below. ALL essay/vision board submissions will require a cover page.
+
+1. How has participation in SECME helped me to discover my STEM dream job?
+
+2. How has the COVID-19 pandemic shown the importance of STEM?
+
+3. Environmental issues
+    a. Forest Fires
+    b. Global Warming
+    
+Topics are open to all grade levels; however, some topics may require more critical thinking, explanations, and details, depending on the grade level. When choosing topics 2 or 3, answer the questions: (1) How does or how should STEM impact these global or environmental issues? (2) How do you see yourself contributing to the solution to these global or environmental issues? We encourage you to use your imagination.
+
+#### Competition Requirements
+Follow all instructions. Each essay and vision board entry must be prepared and submitted by an individual SECME student. When choosing topics 2 or 3, address: (1) How does or how should STEM impact these global or environmental issues? (2) How do you see yourself contributing to the solution of these global or environmental issues? We encourage you to use your imagination.
+
+The vision board can be developed by hand or by using a computer program. For boards created by hand, teams can use materials such as magazine clippings, newspaper clippings, crayons, markers, colored pencils, colored pens, or paint. Clip art or electronic visual graphics are allowed when designing on a computer. Your vision board must be one page, and it can either be positioned in portrait or landscape.
+
+**Grades Pre-K – 2**
+
+Choose a topic. Create your vision board on paper. Next, working with your SECME Coordinator or parent/guardian, record a four-minute maximum video message explaining your vision board and how participation in SECME has helped you to choose that career path.
+
+**Submission of your vision board must include the following**:
+1.	Required cover page
+2. Vision Board drawing is one page in length and can be positioned either in portrait or landscape
+3. Four-minute (max) video explaining your vision board
+
+**The vision board and video will be judged on the following criteria:**
+
+* Includes required cover page, vision board 
+*	Paper size Requirements
+*	Appearance/Effort 
+*	Creativity/Originality 
+*	Video explanation of vision board
+
+**Grades 3 – 5**
+
+Choose a topic. Write your essay and visually depict your essay by creating a vision board on paper. 
+
+**Submission of the essay/vision board must include the following**:
+
+1. Required cover page
+2. The essay should contain 500 – 1,000 words
+3. Write a one-paragraph description of your vision board (the description should be included in your essay and not on the vision board page)
+4. Vision Board drawing is one page long and can be positioned either in portrait or landscape
+5.	Four-minute (max) video explaining your vision board (optional)
+
+**The essay will be judged on the following criteria**:
+
+*	Essay Organization
+*	Content and Focus
+*	Writing Style
+*	Format, Punctuation, and Mechanics
+
+**The vision board and video explanation will be judged on the following criteria**:
+
+*	Appearance/Effort 
+*	Creativity/Originality
+*	Explanation of vision board (1-paragraph or 2 - 4-minute video)
+
+#### Phases
+
+Phase 1: Interest Inventory
+
+Phase 2: Career Search
+
+Phase 3: Education Search
+
+Phase 4: Writing
+
+Phase 5: Illustrations
+
+Click [Phases] to return to the guidelines
+
+### Vision Board Judge’s Evaluation Form - P-2
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Vision Board_Judge Eval_P2.pdf")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Vision Board_Judge Eval_P2.jpg){width=75%}
+</center>
+
+
+### Essay/Vision Board Judge’s Evaluation Form - 3-12
+
+#### Topic 1
+
+```{r echo=FALSE}
+xfun::embed_file("/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1.pdf")
+```
+<center>
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_1.jpg){width=75%}
+![](/Users/kristadulany/Documents/GitHub/SECME/SECME Guidlines_22-23/docs/Essay_Vision Board_Judge Eval_3-12_T1_2.jpg){width=75%}
+</center>
